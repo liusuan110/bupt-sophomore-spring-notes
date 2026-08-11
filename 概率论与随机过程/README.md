@@ -22,6 +22,6 @@
 
 ## Blog Notes
 
-- 概率论与随机过程期末复习速查：https://liusuan110.github.io/2026/05/31/probability-formula-review/
+- 概率论与随机过程期末复习速查：https://liusuan110.github.io/2026/05/31/courses/probability/probability-formula-review/
 
 本目录仅作为个人学习归档。公开内容如有不适合继续公开保存的文件，请联系仓库所有者处理。
