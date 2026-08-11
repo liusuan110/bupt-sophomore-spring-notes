@@ -22,6 +22,5 @@
 ## Blog Notes
 
 - 电磁场与电磁波期末复习速查：https://liusuan110.github.io/2026/05/30/em-exam-review/
-- 个人博客主页：https://liusuan110.github.io
 
 本目录仅作为个人学习归档。公开内容如有不适合继续公开保存的文件，请联系仓库所有者处理。
