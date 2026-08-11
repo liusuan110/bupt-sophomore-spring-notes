@@ -12,9 +12,9 @@
 
 ## Blog Notes
 
-配套复习经验和整理后的知识点会沉淀在个人博客：
+配套复习经验和整理后的知识点：
 
-- 个人博客主页：https://liusuan110.github.io
+- 数字电路与逻辑设计期末复习全集：https://liusuan110.github.io/2026/05/31/courses/digital-circuits/digital-circuits-review/
 - 电磁场与电磁波复习速查：https://liusuan110.github.io/2026/05/30/em-exam-review/
 - 概率论与随机过程复习速查：https://liusuan110.github.io/2026/05/31/probability-formula-review/
 
